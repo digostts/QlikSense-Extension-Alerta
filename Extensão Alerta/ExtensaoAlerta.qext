@@ -1,0 +1,8 @@
+{
+  "name": "ExtensaoAlerta",
+  "description": "Alerta para fazer uma cor de um objeto ficar piscando",
+  "type": "visualization",
+  "version": "1.0.0",
+  "author": "Rodrigo Azevedo",
+  "icon": "extension"
+}
